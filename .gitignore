@@ -1,0 +1,8 @@
+# Env Vars
+/*.env
+
+# Output files
+/*.csv
+
+# Temp files
+/*.db*
