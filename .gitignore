@@ -7,3 +7,5 @@
 # Temp files
 /*.db*
 /__pycache__/
+
+.venv/
